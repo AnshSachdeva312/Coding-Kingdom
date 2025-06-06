@@ -1,4 +1,4 @@
-# 🚀 SmartFix (Master Branch)
+# SmartFix (Master Branch)
 
 Welcome to the **master** branch of SmartFix — the latest development version packed with cutting-edge features and improvements!
 
